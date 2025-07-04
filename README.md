@@ -30,7 +30,7 @@ A powerful Streamlit web app that lets you **chat with multiple PDF documents** 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/chat-with-multiple-pdfs.git
+git clone https://github.com/Amithav7/chat-with-multiple-pdfs.git
 cd chat-with-multiple-pdfs
 ```
 
